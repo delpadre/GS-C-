@@ -12,14 +12,14 @@ O SkillSync Platform é uma solução tecnológica inovadora voltada para o tema
 
 ## 🏗️ Arquitetura
 
+```text
 SkillSync Platform/
 ├── 📁 SkillSync.API/           # Camada de Apresentação
 ├── 📁 SkillSync.Application/   # Camada de Aplicação
 ├── 📁 SkillSync.Domain/        # Camada de Domínio
 ├── 📁 SkillSync.Infrastructure/# Camada de Infraestrutura
 └── 📁 SkillSync.Tests/         # Testes Unitários
-
-
+```
 
 
 ## 📚 Versões da API
