@@ -86,5 +86,9 @@ Endpoints da API
 | PUT    | /api/v1/profissionais/{id} | Atualizar     | 204, 400, 404 |
 | DELETE | /api/v1/profissionais/{id} | Remover       | 204, 404      |
 
-[Diagrama sem nome.drawio.pdf](https://github.com/user-attachments/files/23683329/Diagrama.sem.nome.drawio.pdf)
+
+Link Youtube:
+
+<img width="494" height="826" alt="image" src="https://github.com/user-attachments/assets/292258b7-c0b9-44b1-892a-d2e52f37d9af" />
+
 
