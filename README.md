@@ -88,7 +88,7 @@ Endpoints da API
 | DELETE | /api/v1/profissionais/{id} | Remover       | 204, 404      |
 
 
-Link Youtube:
+Link Youtube: https://youtu.be/WBe928-vyc0
 
 <img width="494" height="826" alt="image" src="https://github.com/user-attachments/assets/292258b7-c0b9-44b1-892a-d2e52f37d9af" />
 
